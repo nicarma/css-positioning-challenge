@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+}
+
+.cloud1 {
+  width: 20%;
+  position: absolute;
+  left: 10%;
+}
+
+.mountain {
+position:relative;
+top: 20%;
+width: 50%;
+}
+
+.cloud2 {
+  width: 20%;
+  position: absolute;
+  bottom: 10%
+}
